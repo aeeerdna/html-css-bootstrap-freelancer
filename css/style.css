@@ -34,3 +34,8 @@
     width: 100%;
     height: auto;
 }
+
+.am-bg-light-blue {
+    background-color: #3b546d;
+    color: white;
+}
